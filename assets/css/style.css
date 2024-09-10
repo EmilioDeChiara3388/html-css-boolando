@@ -24,7 +24,7 @@ img{
     justify-content: space-between;
 }
 
-a{
+.costumer{
     text-decoration: none;
     color: white;
     margin-left: 0.5rem;
@@ -117,3 +117,42 @@ header{
     top: 1%;
     right: 0%;
 }
+
+footer{
+    background-color: #1a1a1a;
+}
+
+.footer-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem 10rem;
+}
+
+#azienda{
+    color: white;
+}
+
+.info-block{
+    display: flex;
+}
+
+.info{
+    text-decoration: none;
+    color: white;
+    font-size: 0.75rem;
+}
+
+.social-block{
+    display: flex;
+    color: white;
+}
+
+.social-icon{
+    width: 20px;
+}
+
+ul{
+    list-style: none;
+}
+
+
