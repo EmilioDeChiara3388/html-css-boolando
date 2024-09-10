@@ -1,0 +1,17 @@
+/* General */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img{
+    max-width: 100%;
+}
+
+:root{
+    --bg-header: #ff6900;
+    --bg-footer: #1a1a1a;
+    --promo: #ff0906;
+    --eco: #008000;
+}
